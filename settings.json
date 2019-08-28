@@ -1,0 +1,25 @@
+{
+    "cmake.configureOnOpen": false,
+    "terminal.integrated.fontSize": 16,
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors.normal": ["#B0D52D", "#434C5E"],
+    "vim.statusBarColors.insert": "#1488AD",
+    "vim.statusBarColors.visual": "#FD8724",
+    "vim.statusBarColors.visualline": "#FD8724",
+    "vim.statusBarColors.visualblock": "#FD8724",
+    "vim.statusBarColors.replace": "#D08770",
+    "workbench.colorCustomizations": {
+        "[One Monokai]": {
+            "editor.background": "#1B1D1E"
+        },
+        "statusBar.background": "#B0D52D",
+        "statusBar.noFolderBackground": "#B0D52D",
+        "statusBar.debuggingBackground": "#B0D52D",
+        "statusBar.foreground": "#434C5E"
+    },
+    "editor.fontSize": 17,
+    "terminal.integrated.fontFamily": "monospace",
+    "C_Cpp.default.browse.limitSymbolsToIncludedHeaders": false,
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "workbench.colorTheme": "One Monokai"
+}
